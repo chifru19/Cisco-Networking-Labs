@@ -46,6 +46,7 @@ IP Schema: Utilized distinct subnets (192.168.10.x and 192.168.20.x) to align wi
 
 🧪 Verification & Testing
 Intra-VLAN Connectivity: Verified successful ICMP pings between hosts within the same VLAN.
-
+![Topology](topology.jpg)
+![Ping](ping_test.jpg)
 VLAN Isolation: Confirmed that traffic between VLAN 10 and VLAN 20 is blocked at Layer 2, ensuring department data privacy.
 *Created by [Frank Fru] as part of the Network Infrastructure Portfolio.*
