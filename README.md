@@ -43,7 +43,8 @@ Ports Fa0/1 - Fa0/2 assigned to VLAN 10.
 Ports Fa0/3 - Fa0/4 assigned to VLAN 20.
 
 IP Schema: Utilized distinct subnets (192.168.10.x and 192.168.20.x) to align with VLAN boundaries.
-
+### Project Analysis
+The topology image shows a segmented network using VLANs to separate Department traffic. The Ping Test results showing "Request Timed Out" confirm that my Access Control Lists (ACLs) and VLAN configurations are successfully blocking unauthorized inter-department communication, ensuring data security.
 🧪 Verification & Testing
 Intra-VLAN Connectivity: Verified successful ICMP pings between hosts within the same VLAN.
 ![Topology](topology.jpg)
