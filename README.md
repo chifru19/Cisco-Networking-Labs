@@ -29,5 +29,23 @@ To ensure the "Physical" and "Logical" layers were correctly established, the fo
 3. **Addressing:** Confirmed all devices correctly leased IP addresses from the DHCP pool.
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6ea85c52-1cf5-490a-b4b9-c7eae103591e" />
 
----
+--- 
+Project 2: Enterprise VLAN Segmentation
+Objective: Implement Layer 2 security by isolating departments into separate Virtual LANs (VLANs) to minimize the attack surface and manage broadcast traffic.
+
+🛠️ Technical Implementation
+VLAN Configuration: Created VLAN 10 (HR) and VLAN 20 (Sales) on a Cisco Catalyst Switch.
+
+Access Port Assignment:
+
+Ports Fa0/1 - Fa0/2 assigned to VLAN 10.
+
+Ports Fa0/3 - Fa0/4 assigned to VLAN 20.
+
+IP Schema: Utilized distinct subnets (192.168.10.x and 192.168.20.x) to align with VLAN boundaries.
+
+🧪 Verification & Testing
+Intra-VLAN Connectivity: Verified successful ICMP pings between hosts within the same VLAN.
+
+VLAN Isolation: Confirmed that traffic between VLAN 10 and VLAN 20 is blocked at Layer 2, ensuring department data privacy.
 *Created by [Frank Fru] as part of the Network Infrastructure Portfolio.*
