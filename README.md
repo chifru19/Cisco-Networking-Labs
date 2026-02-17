@@ -27,6 +27,7 @@ To ensure the "Physical" and "Logical" layers were correctly established, the fo
 1. **Connectivity Test:** Successful ICMP `ping` from Laptop0 (Wireless) to Printer0 (Wired).
 2. **Security Audit:** Verified that unauthorized devices cannot join the SSID without the WPA2-AES handshake.
 3. **Addressing:** Confirmed all devices correctly leased IP addresses from the DHCP pool.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6ea85c52-1cf5-490a-b4b9-c7eae103591e" />
 
 ---
 *Created by [Frank Fru] as part of the Network Infrastructure Portfolio.*
