@@ -1,3 +1,10 @@
+🏆 Professional Certifications
+<a href="" target="_blank">
+<img src="" width="200" alt="CompTIA CSIS Badge">
+</a>
+
+CompTIA Secure Infrastructure Specialist (CSIS)
+Issued by CompTIA
 # 🏆 CompTIA Secure Infrastructure Specialist (CSIS) Certified
 # Cisco-Networking-Labs
 A portfolio of Cisco Packet Tracer labs and Python scripts demonstrating expertise in secure network design, VLAN segmentation, and infrastructure automation."
