@@ -9,9 +9,8 @@ A portfolio of Cisco Packet Tracer labs and Python scripts demonstrating experti
 The goal of this project was to design and implement a secure Small Office/Home Office (SOHO) network that integrates both wired and wireless infrastructure. This lab simulates a real-world startup environment requiring centralized IP management and hardened wireless security.
 
 ## 🏗️ Network Topology
-> [!TIP]
-> **Insert your Packet Tracer Workspace Screenshot Here**
-> (Drag and drop your image file into this line in GitHub to upload it)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7f5e4c13-5338-4d9b-b217-79760e35879a" />
+
 
 ### Components Used:
 * **Router:** Generic Wireless Router (WRT300N)
@@ -30,4 +29,4 @@ To ensure the "Physical" and "Logical" layers were correctly established, the fo
 3. **Addressing:** Confirmed all devices correctly leased IP addresses from the DHCP pool.
 
 ---
-*Created by [Your Name] as part of the Network Infrastructure Portfolio.*
+*Created by [Frank Fru] as part of the Network Infrastructure Portfolio.*
